@@ -1,4 +1,4 @@
-const userName = 'JD';
+const userName = "JD";
 
 console.log(userName);
 
